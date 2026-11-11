@@ -15,20 +15,34 @@ Hola, soy Alejandro y estoy cursando actualmente 2º de ASIR (Administración de
 - **LXC y Docker**: despliegue de servicios como Nginx, Nextcloud, Pi-hole...
 
 ### Redes
-- **Cisco** (practicado con Cisco Packet Tracer): VLAN, enrutamiento con OSPF y NAT.
-- **MikroTik RouterOS**: DHCP, reglas de firewall, VLAN...
-- **DNS**: servidor DNS con BIND9 o Pi-hole.
+- **Conmutación**: VLAN, STP y agregación de enlaces con EtherChannel.
+- **Enrutamiento**: OSPF, NAT y configuración básica de BGP.
+- **Redundancia de puerta de enlace**: HSRP y GLBP.
+- **Cisco**: todo lo anterior practicado con Cisco Packet Tracer.
+- **MikroTik RouterOS**: configuración con Winbox de DHCP, reglas de firewall y VLAN.
+- **DNS**: servidor DNS con BIND9 y Pi-hole.
 - **VPN**: WireGuard y Tailscale (que funciona sobre WireGuard) para acceder a mis servicios desde fuera de casa.
+- **Wireshark**: captura y análisis de tráfico de red.
 
 ### Programación y scripts
-- **Python**: fundamentos de programación (variables, bucles, funciones, ficheros, clases...) y scripts para, por ejemplo, automatizar tareas.
-- **Bash**: scripts para copias de seguridad, crear usuarios en lote, calcular días restantes para un cumpleaños según la fecha actual...
+- **Python**:
+  - Tipos de datos, condicionales y bucles `while` y `for`.
+  - Cadenas de texto, listas y diccionarios, incluidas estructuras anidadas (listas de diccionarios, diccionarios de listas...) y comprehensions.
+  - Funciones, `*args` y `**kwargs`, y separación del código en módulos propios.
+  - Control de errores con `try` / `except`.
+  - Lectura y escritura de ficheros `.txt` y `.csv`.
+- **Bash**:
+  - Variables, parámetros (`$1`, `$#`, `$@`...), condicionales, bucles, arrays y funciones.
+  - Menús interactivos con `read`, `case` y `select`, y validación de los datos que introduce el usuario.
+  - Tratamiento de texto y archivos con `grep`, `awk`, `find`, `du` y `wc`.
+  - Organización del código en varios archivos con `source`.
+  - Automatización de tareas con `cron`.
 - **SQL** (MySQL / MariaDB / PostgreSQL): diseño de tablas y consultas.
 
-### Lenguaje de marcas:
+### Desarrollo web:
 - **HTML y CSS**: diseño de páginas web.
-- **JavaScript**: interactividad en el navegador.
-- **Node.js**: servidor web sencillo.
+- **JavaScript**: interactividad, manipulación del DOM, eventos y validación de formularios en el navegador.
+- **Node.js con Express**: servidor web con varias rutas, archivos estáticos, recepción de datos de formularios (POST) y respuestas en JSON.
 
 ## Mi proyecto principal
 
