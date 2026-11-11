@@ -1,6 +1,6 @@
 # Alejandro Pérez
 
-Hola, soy Alejandro y estoy cursando actualmente 2º de ASIR (Administración de Sistemas Informáticos en Red) en el Institut Esteve Terradas i Illa de Cornellà de Llobregat.
+Hola, soy Alejandro y estoy cursando actualmente 2º de ASIR (Administración de Sistemas Informáticos en Red) en el instituto Esteve Terradas i Illa de Cornellà de Llobregat.
 
 ## Con qué he trabajado
 
