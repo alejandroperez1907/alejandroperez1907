@@ -48,6 +48,12 @@ Hola, soy Alejandro y estoy cursando actualmente 2º de ASIR (Administración de
 
 Mi proyecto más completo es mi **[Homelab casero](https://github.com/alejandroperez1907/homelab)**, un servidor que tengo en casa con Proxmox VE y cinco servicios en contenedores (Pi-hole con Unbound, Vaultwarden, Tailscale, Uptime Kuma y Jellyfin), y lo tengo todo documentado paso a paso
 
+## Otros proyectos
+
+También he subido algunos proyectos de clase:
+
+- **[Papelera de reciclaje en Bash](enlace)**: una papelera para la terminal. En vez de borrar los archivos directamente, los manda a una papelera desde donde se pueden restaurar, uno a uno o por extensión, y cada acción queda registrada en logs y la papelera se vacía sola cada mes con `cron`.
+
 ## Contacto
 
 Me puedes encontrar en [LinkedIn](https://www.linkedin.com/in/alejandro-pérez-del-olmo)
