@@ -53,6 +53,7 @@ Mi proyecto más completo es mi **[Homelab casero](https://github.com/alejandrop
 También he subido algunos proyectos de clase:
 
 - **[Papelera de reciclaje en Bash](enlace)**: una papelera para la terminal. En vez de borrar los archivos directamente, los manda a una papelera desde donde se pueden restaurar, uno a uno o por extensión, y cada acción queda registrada en logs y la papelera se vacía sola cada mes con `cron`.
+- **[Gestor de Streamers](enlace)**: una aplicación de consola en Python de unas 550 líneas, con un menú para añadir, modificar, eliminar y buscar streamers con filtros, ordenarlos y sacar estadísticas.
 
 ## Contacto
 
