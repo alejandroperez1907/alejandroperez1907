@@ -5,8 +5,12 @@ Hola, soy Alejandro y estoy cursando actualmente 2º de ASIR (Administración de
 ## Con qué he trabajado
 
 ### Sistemas
-- **Linux** (Debian / Ubuntu Server): gestión de usuarios y permisos, instalación y configuración de servicios.
-- **Windows** (Windows 10/11 y Windows Server 2019/2022): gestión de usuarios y grupos, permisos NTFS, configuración de servicios, Active Directory y GPO.
+- **Linux** (Debian y Ubuntu Desktop / Server): instalación, gestión de usuarios, grupos y permisos, y configuración de servicios.
+- **Windows** (Windows 10/11 y Windows Server 2019/2022): gestión de usuarios y grupos, permisos NTFS y configuración de servicios.
+- **Dominios**: creación de un dominio con **Active Directory**, unión de equipos cliente (Windows / Windows y Linux) y aplicación de **directivas de grupo (GPO)**.
+- **Recursos compartidos en red**: carpetas compartidas con permisos y cuotas de disco con Samba y NFS en Linux.
+- **Monitorización y auditoría**: revisión de registros y rendimiento del sistema (visor de eventos, monitor de rendimiento y journalctl) y auditorías de seguridad (inicios de sesión y acceso a archivos).
+- **Administración remota**: SSH, Escritorio remoto (RDP) y VNC.
 - **Proxmox VE**: creación y gestión de máquinas virtuales y contenedores.
 - **LXC y Docker**: despliegue de servicios como Nginx, Nextcloud, Pi-hole...
 
