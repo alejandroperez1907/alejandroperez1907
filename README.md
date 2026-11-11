@@ -4,7 +4,27 @@ Hola, soy Alejandro y estoy cursando actualmente 2º de ASIR (Administración de
 
 ## Con qué he trabajado
 
-En sistemas he trabajado sobre todo con Linux (Debian), Proxmox VE, contenedores LXC y Docker, en redes con Cisco IOS (VLAN, OSPF, NAT), MikroTik RouterOS, DNS y VPN con Tailscale y WireGuard, y también hago scripts en Bash y Python y trabajo con bases de datos en SQL
+### Sistemas
+- **Linux** ([Debian / Ubuntu Server]): gestión de usuarios y permisos, instalación y configuración de servicios, [algo más].
+- **Windows** (Windows [10/11] y Windows Server [2019/2022]): gestión de usuarios y grupos, permisos NTFS, configuración de servicios, [Active Directory y GPO, si lo has visto].
+- **Proxmox VE**: creación y gestión de máquinas virtuales y contenedores.
+- **LXC y Docker**: despliegue de servicios como [ej.: Nginx, Nextcloud, Pi-hole...].
+
+### Redes
+- **Cisco** (practicado con *Cisco Packet Tracer*): VLAN, enrutamiento con OSPF y NAT.
+- **MikroTik RouterOS**: [qué hiciste: DHCP, reglas de firewall, VLAN...].
+- **DNS**: [ej.: servidor DNS con BIND9 o Pi-hole].
+- **VPN**: WireGuard y Tailscale (que funciona sobre WireGuard) para [ej.: acceder a mis servicios desde fuera de casa].
+
+### Programación y scripts
+- **Python**: fundamentos de programación (variables, bucles, funciones, [ficheros, clases...]) y scripts para [ej.: automatizar tareas].
+- **Bash**: scripts para [ej.: copias de seguridad, crear usuarios en lote...].
+- **SQL** ([MySQL / MariaDB / PostgreSQL]): diseño de tablas y consultas.
+
+### Desarrollo web
+- **HTML y CSS**: maquetación de páginas web.
+- **JavaScript**: interactividad en el navegador.
+- **Node.js**: [ej.: un servidor web sencillo o una pequeña API].
 
 ## Mi proyecto principal
 
